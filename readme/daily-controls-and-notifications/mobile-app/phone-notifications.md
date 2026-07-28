@@ -17,7 +17,7 @@ Before notifications can arrive, you need:
 
 ### Request access
 
-[Contact](../other-informations/contact-us.md) the administrator to enable phone notifications. This is not self-service.
+[Contact](../../other-informations/contact-us.md) the administrator to enable phone notifications. This is not self-service.
 
 Include your Home Assistant username and phone type.
 

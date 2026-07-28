@@ -19,7 +19,7 @@ Use the [main dashboard](daily-controls-and-notifications/main-dashboard.md) to 
 
 ### Respond to updates
 
-Review [in-dashboard notifications](daily-controls-and-notifications/in-dashboard-notifications/) for recent events. Enable [phone notifications](daily-controls-and-notifications/phone-notifications.md) through the administrator.
+Review [in-dashboard notifications](daily-controls-and-notifications/in-dashboard-notifications/) for recent events. Enable [phone notifications](daily-controls-and-notifications/mobile-app/phone-notifications.md) through the administrator.
 
 ### Use AI features
 

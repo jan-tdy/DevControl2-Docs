@@ -6,6 +6,8 @@ icon: cube
 
 Things on this page may change very quickly; see "last updated" at the bottom of this page. Thanks
 
+The 2D View floorplan card is on the 2D View tab.
+
 There are different versions
 
 {% tabs %}
