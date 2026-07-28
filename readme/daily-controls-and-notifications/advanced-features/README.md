@@ -18,7 +18,7 @@ They include (this list may not be completely correct - it is just approximate i
 {% step %}
 ### Click on "Advanced options" on the Conditions tab.
 
-<figure><img src="../../.gitbook/assets/advanced-options.png" alt=""><figcaption><p>Screenshot showing where the "Advanced options" togle is</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/advanced-options.png" alt=""><figcaption><p>Screenshot showing where the "Advanced options" togle is</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

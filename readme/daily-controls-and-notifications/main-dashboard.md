@@ -51,9 +51,9 @@ Long loading is normal. As for April 27, year 2026
 {% tab title="Controls Tab" %}
 For user role information, please see the [user roles](../other-informations/user-roles.md) page.
 
-Currently, there are some alarm controls for admins, roof demo controls (some of them only for admins), and a [2D view floorplan card](2d-view-floorplan-card.md) for admins. As for April 29, year 2026
+Currently, there are some alarm controls for admins, roof demo controls (Only for admins), and some socket controls. As for Jul 28, year 2026
 
-Only some roof demo controls are available , and a limited 2D view floorplan card is available to regular users. As for April 30, year 2026
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Screenshot made on 28.7.2026 from an user account</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Screenshot made on 22.7.2026 from an admin account</p></figcaption></figure>
 
