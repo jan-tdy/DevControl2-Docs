@@ -14,6 +14,7 @@
     * [Main dashboard](readme/daily-controls-and-notifications/main-dashboard.md)
     * [Advanced features](readme/daily-controls-and-notifications/advanced-features.md)
     * [Use the camera card](readme/daily-controls-and-notifications/use-the-camera-card.md)
+    * [Use the switch card](readme/daily-controls-and-notifications/use-the-switch-card.md)
     * [Understand condition-card](readme/daily-controls-and-notifications/understand-condition-card.md)
     * [Understand alerts](readme/daily-controls-and-notifications/understand-alerts.md)
     * [In-dashboard notifications](readme/daily-controls-and-notifications/in-dashboard-notifications/README.md)
