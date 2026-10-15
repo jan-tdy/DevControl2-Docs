@@ -18,9 +18,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Main dashboard
+
+EDIT: This is outdated, now we have the new intuitive simple CtrlPanel and Vega.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Things on this page may change very quickly (including screenshots and their alt texts); see "last updated" at the bottom of this page. Thanks
 

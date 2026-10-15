@@ -4,6 +4,10 @@ icon: cube
 
 # 2D View floorplan card
 
+EDIT: The new CtrlPanel/Vega dashboards do not include this, we may return it soon and better.
+
+
+
 Things on this page may change very quickly; see "last updated" at the bottom of this page. Thanks
 
 The 2D View floorplan card is on the 2D View tab.

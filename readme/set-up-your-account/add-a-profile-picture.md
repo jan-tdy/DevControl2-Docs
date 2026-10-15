@@ -4,5 +4,13 @@ icon: user
 
 # Add a profile picture
 
-Contact us at devcontrol2@bombol.space
+then editTap your profile picture, the ne
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+it your profile....
+
+
+
+
 
