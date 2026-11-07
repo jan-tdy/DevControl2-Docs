@@ -24,9 +24,21 @@ layout:
 
 # Main dashboard
 
-EDIT: This is outdated, now we have the new intuitive simple CtrlPanel and Vega.
+We have two dashboards: CtrlPanel by DevC2 admin, and Vega by Bombol.Space admin.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+The screenshot bellow explains CtrlPanel's Overview tab
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Please note that you can scroll down for graphs, etc.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+\---------------------------------------------------OLD------------------------------------------------
+
+EDIT: This is outdated, now we have the new intuitive simple CtrlPanel and Vega.
 
 Things on this page may change very quickly (including screenshots and their alt texts); see "last updated" at the bottom of this page. Thanks
 

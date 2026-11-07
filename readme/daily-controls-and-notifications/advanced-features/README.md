@@ -4,6 +4,10 @@ icon: rectangle-terminal
 
 # Advanced features
 
+OUTDATED FOR CTRLPANEL AND VEGA
+
+
+
 DevControl2 has some advanced features in the Conditions tab that are hidden by default for regular users.
 
 They include (this list may not be completely correct - it is just approximate information)

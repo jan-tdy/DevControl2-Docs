@@ -63,10 +63,8 @@ Confirm that the sidebar now matches the way you work.
 
 For most users, this order works well:
 
-1. Dashboard
-2. Energy
-3. Frigate
-4. To-do lists
+1. CtrlPanel
+2. Activity
 
 ### Restore a hidden sidebar item
 

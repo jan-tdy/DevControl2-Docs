@@ -25,9 +25,9 @@ Select your preferred language from the language menu.
 
 Check the timezone shown in your user profile.
 
-Choose the timezone for your current location. Then save the change.
+Choose the server timezone(that will avoid strange behaviour). Then save the change.
 
-Reload the dashboard. Confirm that local times match your expected time.
+Reload the dashboard.
 {% endstep %}
 {% endstepper %}
 
